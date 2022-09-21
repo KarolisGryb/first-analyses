@@ -31,7 +31,7 @@ WITH  clean_tbl AS (
                     FROM prep_tbl
                    )
 SELECT 
-   * 
+   duration_with_purchase 
 FROM 
    calc_tbl  
 WHERE 
