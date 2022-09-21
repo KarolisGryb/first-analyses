@@ -1,5 +1,5 @@
 ## About
-The aim of each analysis is to gather actionable insights using various tools and methods. Multiple real-world datasets are used. Data wrangling is performed using SQL. For privacy reasons display of some information is omitted.
+The aim of each analysis is to gather actionable insights using various tools and methods. Multiple real-world datasets are used. Data wrangling is performed using SQL. For privacy reasons display of some information will be omitted.
 
 Projects are in reverse-chronological order.
 
@@ -11,7 +11,11 @@ Data used is a single parsed events table which contains various frontend action
 
 ![](https://github.com/KarolisGryb/first-analyses/blob/main/marketing_files/schema.png)
 
-- #### Single row of extracted data with SQL
+- #### SQL query to extract data
+
+https://github.com/KarolisGryb/first-analyses/blob/7cb8acd386952011add0be2e7ae9ed8ba41fd668/marketing_files/query.sql#L1-L165
+
+- #### Single row of extracted data
 
 Weekday duration
 
