@@ -1,5 +1,5 @@
 ## About
-The aim of each analysis is to gather actionable insights using various tools and methods. Multiple real-world datasets are used. Data wrangling is performed using SQL. For privacy reasons display of some information will be omitted.
+The aim of each analysis is to gather actionable insights using various tools and methods. Multiple real-world datasets are used. Data wrangling is performed using SQL. For privacy reasons display of some information is omitted.
 
 Projects are in reverse-chronological order.
 
